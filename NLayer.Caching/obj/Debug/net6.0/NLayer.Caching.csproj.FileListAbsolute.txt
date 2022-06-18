@@ -1,0 +1,43 @@
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CopyComplete

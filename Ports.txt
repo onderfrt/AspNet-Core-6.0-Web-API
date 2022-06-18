@@ -1,0 +1,7 @@
+
+Portlarý not alýyoruz.
+Api =>https://localhost:7208/
+Api =>http://localhost:5208
+
+Web =>  http://localhost:5072
+Web => https://localhost:7072

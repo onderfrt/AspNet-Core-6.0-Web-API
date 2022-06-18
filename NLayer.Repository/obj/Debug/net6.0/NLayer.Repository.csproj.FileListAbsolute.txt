@@ -1,0 +1,51 @@
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll

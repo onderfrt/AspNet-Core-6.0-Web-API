@@ -1,0 +1,212 @@
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.exe
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.deps.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.runtimeconfig.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.AssemblyReference.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfoInputs.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfo.cs
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CoreCompileInputs.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\scopedcss\bundle\NLayer.API.styles.css
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CopyComplete
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\refint\NLayer.API.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Öfk\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.exe
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.deps.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.runtimeconfig.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.AssemblyReference.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfoInputs.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfo.cs
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CoreCompileInputs.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\scopedcss\bundle\NLayer.API.styles.css
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CopyComplete
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\refint\NLayer.API.dll
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
+C:\Users\onder.ozen\Desktop\Yeni klasör (4)\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.AssemblyReference.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfoInputs.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.AssemblyInfo.cs
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CoreCompileInputs.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\refint\NLayer.API.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.exe
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.deps.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.runtimeconfig.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\scopedcss\bundle\NLayer.API.styles.css
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.csproj.CopyComplete
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\Öfk\Desktop\MVC-NLAYER\2\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.Caching.pdb
